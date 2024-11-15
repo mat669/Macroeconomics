@@ -2,6 +2,8 @@
 
 This repository contains the code and data used for the project analyzing the implications of Bitcoin for Turkey's monetary system. The study develops GARCH models to evaluate the impact of Bitcoin price and volatility on key monetary aggregates such as inflation, real exchange rates, and money velocity.
 
+![Image](https://api.time.com/wp-content/uploads/2016/05/gettyimages-534012032.jpg)
+
 ## Project Structure
 
 - **`Adv_Macro_project.ipynb`**: Jupyter notebook implementing the data analysis and GARCH models.
