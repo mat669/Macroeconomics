@@ -4,8 +4,8 @@ This repository contains the code and data used for the project analyzing the im
 
 ## Project Structure
 
-- **`Adv_Macro_project_v2.ipynb`**: Jupyter notebook implementing the data analysis and GARCH models.
-- **`Bitcoin_and_Turkey___v2.pdf`**: Report summarizing the theoretical framework, methodology, and key results.
+- **`Adv_Macro_project.ipynb`**: Jupyter notebook implementing the data analysis and GARCH models.
+- **`Bitcoin_and_Turkey.pdf`**: Report summarizing the theoretical framework, methodology, and key results.
 
 ## Key Objectives
 
